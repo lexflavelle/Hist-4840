@@ -8,22 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 ## Listen Here:
-
 {% include feature/audio.html objectid="podcast01" width="50" %}
-
 ## About the Bookshop
-
 Glad Day Bookshop is the oldest queer bookstore in the world. Founded in 1970, it has bounced around the city’s central-east end for over 50 years; its current home, 499 Church Street, hosts a constant stream of community events from the academic to the ostentatious.
 
 This historic business is not just a bookstore and event space. Join Lex and Nkechinyem as they explore Glad Day’s roots, intentions, and community action. How do we keep queer histories alive? How do we protect each other now, to ensure we get to tell our stories later?
 
 ## Shownotes/Bibliography:
-
 This project would not have been possible without Nkechinyem Oduh donating her time to speak with me.
 
 Audio effects courtesy of [C_Rogers](https://freesound.org/people/C_Rogers/sounds/453074/) and music courtesy of [ispeakwaves](https://freesound.org/people/ispeakwaves/sounds/455514/), [Setuniman](https://freesound.org/people/Setuniman/sounds/424669/), [luhenriking](https://freesound.org/people/luhenriking/sounds/435923/), and [tictac9](https://freesound.org/people/tictac9/sounds/517057/), licensed for use through Creative Commons.
 
-## Primary Sources:
+Primary Sources:
 
 [“5 questions with Michael Erickson,” BookNet Canada, January 28, 2019.](https://www.booknetcanada.ca/blog/2019/1/28/5-questions-with-michael-erickson#:~:text=%22In%202012%2C%20a%20group%20of,his%20favourite%20bookselling%20war%20story)
 
@@ -50,7 +46,7 @@ take that for granted.” CBC News, November 6, 2017.](https://www.cbc.ca/arts/t
 
 [“We’ve Seen Enough.” The Body Politic, June 1983 (Toronto: Pink Triangle Press): 8.](https://collections.arquives.ca/link/ia_bodypolitic94toro.)
 
-## Secondary Sources:
+Secondary Sources:
 
 Cossman, Brenda. “Feminist Fashion or Morality in Drag? The Sexual Subtext of the Butler 
 Decision.” in Bad Attitude/s on Trial: Pornography, Feminism, and the Butler Decision. University of Toronto Press, 1997: 108-151.
