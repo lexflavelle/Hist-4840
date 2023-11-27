@@ -8,10 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 Glad Day Bookshop is the oldest queer bookstore in the world. Founded in 1970, it has bounced around the city’s central-east end for over 50 years; its current home, 499 Church Street, hosts a constant stream of community events from the academic to the ostentatious.
