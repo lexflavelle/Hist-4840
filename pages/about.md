@@ -16,7 +16,9 @@ This historic business is not just a bookstore and event space. Join Lex and Nke
 
 Shownotes/Bibliography:
 
-Audio effects courtesy of [C_Rogers](https://freesound.org/people/C_Rogers/sounds/453074/) and music courtesy of [kjarten_abel](https://freesound.org/people/kjartan_abel/sounds/531854/).
+This project would not have been possible without Nkechinyem Oduh donating her time to speak with me.
+
+Audio effects courtesy of [C_Rogers](https://freesound.org/people/C_Rogers/sounds/453074/) and music courtesy of [ispeakwaves](https://freesound.org/people/ispeakwaves/sounds/455514/), [Setuniman](https://freesound.org/people/Setuniman/sounds/424669/), [luhenriking](https://freesound.org/people/luhenriking/sounds/435923/), and [tictac9](https://freesound.org/people/tictac9/sounds/517057/), licensed for use through Creative Commons.
 
 Primary Sources:
 
