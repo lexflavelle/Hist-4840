@@ -263,3 +263,6 @@ $_luminance-list: .0008 .001 .0011 .0013 .0015 .0017 .002 .0022 .0025 .0027 .003
         @include theme-bg(".bg-#{$color}", $value);
     }
 }
+@import "~bootswatch/dist/[darkly]/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~bootswatch/dist/[darkly]/bootswatch";
